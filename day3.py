@@ -1,0 +1,46 @@
+print("hello dimas")
+print("selamat belajr type data di python")
+
+print("1. tipe data integer bilangan bulat")
+q = 29
+print(type(q))
+print()
+print("2. tipe dayta float bilangan desimal")
+r = 50.75
+print(type(r))
+print()
+print("3. tipe data string karakter dan teks")
+s = "dimas"
+print(type(s))
+print()
+print("4. tipe data boolean True or False")
+t = False
+print(type(t))
+print()
+print("5. tipe data boolean True or False")
+u = complex(5,6)
+print(type(u))
+print()
+print("6. tipe data list")
+v = ['apel','pisang','mangga']
+print(type(v))
+print()
+print("7.tipe data tuple")
+w = ('mangga','anggur','degan')
+print(type(w))
+print()
+print("8. tipe data range")
+x = range(0,6)
+print(type(x))
+print()
+print("9. tipe data dict")
+y = {'nama':'dimas','age': 17}
+print(type(y))
+print()
+print("10. tipe data set")
+z = {'nama','uwek','age','17'}
+print(type(z))
+print()
+print("11. tipe data frozenset")
+a = frozenset({'Angga','Dimas','Otong'})
+print(type(a))
